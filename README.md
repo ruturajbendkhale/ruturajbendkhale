@@ -59,36 +59,21 @@ I also explore machine learning and creative coding in my spare time.
   - Deep Learning Specialization (Andrew Ng)  
   - PCB Design with Altium
 
-<!-- Add your real certifications/achievements here -->
-
----
-
-## ✨ Endorsements
-
-> “Ruturaj is a highly skilled embedded engineer who can rapidly prototype, debug, and deliver complex hardware designs.”  
-> <sub>– Jane Doe, Former Project Manager at ASTRA Bremen</sub>
-
-> “His creativity and technical depth are exceptional.”  
-> <sub>– A Colleague</sub>
-
-<!-- Replace or add more quotes as you wish -->
 
 ---
 
 ## 🤝 Get in Touch
 
 Interested in collaborating or hiring?  
-📧 [Email me](mailto:your.email@example.com)  
-📅 [Schedule a call](https://calendly.com/your-link)  
+📧 [Email me](mailto:ruturajbendkhale6@gmail.com)  
 or reach out on [LinkedIn](https://www.linkedin.com/in/ruturajbendkhale/)
 
 ---
 
 ## 📝 Blog Posts & Talks
 
-- [The Future of Avionics: Sensor Fusion & ML](https://your-blog-link.com)
-- [PCB Design Best Practices](https://your-blog-link.com)
-<!-- Add real links or remove this section if not needed -->
+- 
+- 
 
 ---
 
