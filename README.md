@@ -52,7 +52,7 @@ I also explore machine learning and creative coding in my spare time.
 
 ## 🏆 Certifications & Achievements
 
-- 📜 **Certified Embedded Systems Engineer** (Example University, 2024)
+- 📜 **
 - 🥇 **Winner, Machine Learning Hackathon/Competition 2024** (LEMGAO)
 - 🥇 **Winner, AI Hackathon for efficient bureaucracy 2024**
 - 🏅 **Coursera/edX Specializations:**  
