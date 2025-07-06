@@ -23,8 +23,9 @@ I also explore machine learning and creative coding in my spare time.
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,raspberrypi,arduino,stm32,vscode,altium,kicad,linux,git,js,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,python,raspberrypi,arduino,stm32,matlab,vscode,altium,kicad,linux,git,js,html,css" />
 </p>
+
 
 - **Embedded Systems & PCB Design:** Altium, KiCAD, EasyEDA  
 - **Programming:** C/C++, Python, Micropython, FreeRTOS, Arduino  
