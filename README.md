@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/ruturajbendkhale/">
     <img src="https://img.shields.io/badge/LinkedIn-ruturajbendkhale-blue?style=flat-square&logo=linkedin" />
   </a>
+  <a href="https://linktr.ee/ruturajbendkhale">
+    <img src="https://img.shields.io/badge/Linktree-@ruturajbendkhale-43E660?style=flat-square&logo=linktree&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=ruturajbendkhale&style=flat-square&color=0A66C2" alt="Profile views" />
 </p>
 
@@ -23,9 +26,8 @@ I also explore machine learning and creative coding in my spare time.
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python,raspberrypi,arduino,stm32,matlab,vscode,altium,kicad,linux,git,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,raspberrypi,arduino,stm32,vscode,altium,kicad,linux,git,js,html,css" />
 </p>
-
 
 - **Embedded Systems & PCB Design:** Altium, KiCAD, EasyEDA  
 - **Programming:** C/C++, Python, Micropython, FreeRTOS, Arduino  
@@ -50,30 +52,38 @@ I also explore machine learning and creative coding in my spare time.
 
 ---
 
+## 🌟 Other Notable Projects
+
+- 🖼️ **SVG-Tool** ([private])  
+  *A custom utility for manipulating and generating SVG files, enabling automated vector art creation and conversion. This project showcases my scripting skills and creativity in handling graphics programmatically.*
+
+- 💳 **PCB_Business_Card** ([private])  
+  *An innovative business card designed as a fully functional PCB. This combines my expertise in PCB design with branding, serving as a memorable, interactive introduction at events and meetups.*
+
+- 🧠 **[mentalhealth_hackathon](https://github.com/ruturajbendkhale/mentalhealth_hackathon)**  
+  *A hackathon-winning project focused on mental health awareness, utilizing web technologies, machine learning, and thoughtful UI/UX to create supportive digital tools for well-being.*
+
+---
+
 ## 🏆 Certifications & Achievements
 
-- 📜 **
+- 📜 **Certified Embedded Systems Engineer** (Example University, 2024)
 - 🥇 **Winner, Machine Learning Hackathon/Competition 2024** (LEMGAO)
 - 🥇 **Winner, AI Hackathon for efficient bureaucracy 2024**
 - 🏅 **Coursera/edX Specializations:**  
   - Deep Learning Specialization (Andrew Ng)  
   - PCB Design with Altium
 
+<!-- Add your real certifications/achievements here -->
 
 ---
 
 ## 🤝 Get in Touch
 
 Interested in collaborating or hiring?  
-📧 [Email me](mailto:ruturajbendkhale6@gmail.com)  
+📧 [Email me](mailto:ruturajbendkhale6@gmail.com) 
 or reach out on [LinkedIn](https://www.linkedin.com/in/ruturajbendkhale/)
 
----
-
-## 📝 Blog Posts & Talks
-
-- 
-- 
 
 ---
 
@@ -110,12 +120,6 @@ or reach out on [LinkedIn](https://www.linkedin.com/in/ruturajbendkhale/)
 - 🥾 Hiking and exploring nature
 - 🚲 Bicycling enthusiast
 - ❤️ Charity & volunteering for education and community
-
----
-
-## ☕ Support
-
-If you like my work, consider [buying me a coffee](https://www.buymeacoffee.com/yourname) or sponsoring me on GitHub!
 
 ---
 
