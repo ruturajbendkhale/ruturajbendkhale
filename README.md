@@ -55,10 +55,10 @@ I also explore machine learning and creative coding in my spare time.
 ## 🌟 Other Notable Projects
 
 - 🖼️ **SVG-Tool** ([private])  
-  *A custom utility for manipulating and generating SVG files, enabling automated vector art creation and conversion. This project showcases my scripting skills and creativity in handling graphics programmatically.*
+  *A custom utility for manipulating and generating SVG files from a PNG JPG artworks, enabling automated vector art creation and transformation into GCODE for Machine Generated Art. This project showcases my scripting skills and creativity in handling graphics programmatically.*
 
 - 💳 **PCB_Business_Card** ([private])  
-  *An innovative business card designed as a fully functional PCB. This combines my expertise in PCB design with branding, serving as a memorable, interactive introduction at events and meetups.*
+  *An innovative business card designed as a fully functional PCB with an NFC Chip built in. This combines my expertise in PCB design with branding, serving as a memorable, interactive introduction at events and meetups.*
 
 - 🧠 **[mentalhealth_hackathon](https://github.com/ruturajbendkhale/mentalhealth_hackathon)**  
   *A hackathon-winning project focused on mental health awareness, utilizing web technologies, machine learning, and thoughtful UI/UX to create supportive digital tools for well-being.*
