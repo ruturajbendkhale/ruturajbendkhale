@@ -62,6 +62,7 @@ I also explore machine learning and creative coding in my spare time.
 
 - 🧠 **[mentalhealth_hackathon](https://github.com/ruturajbendkhale/mentalhealth_hackathon)**  
   *A hackathon-winning project focused on mental health awareness, utilizing web technologies, machine learning, and thoughtful UI/UX to create supportive digital tools for well-being.*
+  
 - ⚙️ **[Motor Vibration ML Predictive Model]**  ([private]) 
   *A project focused on developing a machine learning system for detecting motor Rotor faults through the analysis of vibration and current signals. It utilizes techniques such as multi-signal fusion, adaptive filtering, and time-frequency analysis to enhance feature extraction and classification accuracy. For more information, click [here](projects/motor_vibration_ML_predective_model.md).*
 
@@ -71,14 +72,18 @@ I also explore machine learning and creative coding in my spare time.
 
 ## 🏆 Certifications & Achievements
 
-- 📜 **Certified Embedded Systems Engineer** (Example University, 2024)
 - 🥇 **Winner, Machine Learning Hackathon/Competition 2024** (LEMGAO)
 - 🥇 **Winner, AI Hackathon for efficient bureaucracy 2024**
-- 🏅 **Coursera/edX Specializations:**  
-  - Deep Learning Specialization (Andrew Ng)  
-  - PCB Design with Altium
+- 🏅 **Coursera/edX Specializations:**    
+  - PCB Design with Altium (Udemy)
+  - Practical Data Science with MATLAB (MATLAB-COURSERA)
+  - Real-Time Embedded Systems Specialization (University of Colorado Boulder)
+  - Machine Learning at the Edge on ARM (ARM)
+  - Feature Engineering (Google Cloud)
+  - IBM AI Engineering (In Progress - 1/4 Completed)
+  - Requirements Engineering (UNSW Sydney)
+  - Spacecraft Dynamics and Control (In Progress - 1/4 Completed, University of Colorado Boulder)
 
-<!-- Add your real certifications/achievements here -->
 
 ---
 
