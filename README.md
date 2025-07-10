@@ -62,6 +62,10 @@ I also explore machine learning and creative coding in my spare time.
 
 - 🧠 **[mentalhealth_hackathon](https://github.com/ruturajbendkhale/mentalhealth_hackathon)**  
   *A hackathon-winning project focused on mental health awareness, utilizing web technologies, machine learning, and thoughtful UI/UX to create supportive digital tools for well-being.*
+- ⚙️ **[Motor Vibration ML Predictive Model]**  ([private]) 
+  *A project focused on developing a machine learning system for detecting motor Rotor faults through the analysis of vibration and current signals. It utilizes techniques such as multi-signal fusion, adaptive filtering, and time-frequency analysis to enhance feature extraction and classification accuracy. For more information, click [here](projects/motor_vibration_ML_predective_model.md).*
+
+
 
 ---
 
