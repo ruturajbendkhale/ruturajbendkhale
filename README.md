@@ -25,15 +25,41 @@ I also explore machine learning and creative coding in my spare time.
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,raspberrypi,arduino,stm32,vscode,altium,kicad,linux,git,js,html,css" />
-</p>
-
-- **Embedded Systems & PCB Design:** Altium, KiCAD, EasyEDA  
-- **Programming:** C/C++, Python, Micropython, FreeRTOS, Arduino  
-- **Sensor Fusion & Control:** IMUs, sensors, real-time data  
-- **Platforms:** STM32, ESP32, Raspberry Pi  
-- **Other:** Git, Linux, basic Web & Chrome Extensions
+<table>
+  <tbody><tr>
+    <td><b>Simulation Tools</b></td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="32" height="32">
+      <img src="https://rocketpy.org/_static/logo.png" alt="RocketPy" width="32" height="32">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Simulink_logo.png" alt="Simulink" width="32" height="32">
+      <img src="https://www.eclipse.org/capella/images/logo_capella_2021.svg" alt="Capella" width="32" height="32">
+      <img src="https://www.ni.com/favicon.ico" alt="NI Multisim" width="32" height="32">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Hardware Techstack</b></td>
+    <td>
+      <img src="https://www.altium.com/sites/default/files/favicon.ico" alt="Altium" width="32" height="32">
+      <img src="https://kicad.org/favicon.ico" alt="KiCAD" width="32" height="32">
+      <img src="https://easyeda.com/favicon.ico" alt="EASYEDA" width="32" height="32">
+      <img src="https://www.xilinx.com/favicon.ico" alt="Xilinx" width="32" height="32">
+      <img src="https://www.orcad.com/favicon.ico" alt="Orcad" width="32" height="32">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Software Techstack</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" alt="C/C++">
+      <img src="https://www.raspberrypi.org/favicon.ico" alt="Raspberry Pi" width="32" height="32">
+      <img src="https://www.arduino.cc/favicon.ico" alt="Arduino" width="32" height="32">
+      <img src="https://www.st.com/etc.clientlibs/st-site/clientlibs/clientlib-site/resources/favicon.ico" alt="STM32" width="32" height="32">
+      <img src="https://www.linux.org/favicon.ico" alt="Linux" width="32" height="32">
+      <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="Typescript" width="32" height="32">
+      <img src="https://pytorch.org/favicon.ico" alt="PyTorch" width="32" height="32">
+      <img src="https://www.tensorflow.org/favicon.ico" alt="TensorFlow" width="32" height="32">
+    </td>
+  </tr>
+</tbody></table>
 
 ---
 
